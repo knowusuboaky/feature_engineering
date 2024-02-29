@@ -228,7 +228,7 @@ These arguments collectively offer extensive control over the feature engineerin
       - Example:
       ```bash
       ## Set sampling_strategies = [
-         {'name': 'SMOTE', 'random_state': 42, 'k_neighbors': 2}  # Example specifying custom parameters for SMOTE
+         {'name': 'SMOTE', 'random_state': 42, 'k_neighbors': 2}  # Example specifying parameters for SMOTE
       ```
 
 - **`include_holiday`**:
