@@ -225,6 +225,7 @@ These arguments collectively offer extensive control over the feature engineerin
     - **Options**:
       - `None`: No sampling for class imbalance.
       - List of dictionaries: Specifies sampling techniques and parameters.
+      - `'SMOTE'`, `'ADASYN'`, `'RandomUndersampling'`,`'ClusterCentroids'`, `'SMOTEENN'`, and `'SMOTETomek'`
       - Example:
       ```bash
       ## Set sampling_strategies = [
