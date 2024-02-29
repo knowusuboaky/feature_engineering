@@ -145,7 +145,7 @@ Let's delve into detailed explanations of each argument in the `FeatureEngineeri
 
 `selection_strategy` (string): Chooses the strategy for feature selection. `'embedded'` refers to methods that integrate feature selection as part of the model training process (e.g., using model coefficients or importances), whereas `'wrapper'` involves selecting features by evaluating model performance across subsets of features.
 
-`sampling_strategies` (list of dictionaries, optional): Outlines one or more strategies to address class imbalance through sampling. Each dictionary specifies a sampling technique (e.g., `'SMOTE'`, `'ADASYN'`) and its parameters. This allows for sophisticated handling of imbalanced datasets to improve model fairness and accuracy.
+`sampling_strategies` (list of dictionaries, optional): Outlines one or more strategies to address class imbalance through sampling. Each dictionary specifies a sampling technique (e.g., `'SMOTE'`, `'ADASYN'`, `'RandomUndersampling'`,`'ClusterCentroids'`, `'SMOTEENN'`, `'SMOTETomek'`) and its parameters. This allows for sophisticated handling of imbalanced datasets to improve model fairness and accuracy.
 
 `include_holiday` (tuple, optional): If provided, adds a binary feature indicating whether a date falls on a public holiday. The tuple should contain the column name containing dates and the country code to reference the correct holiday calendar.
 
