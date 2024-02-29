@@ -17,11 +17,11 @@ Dive into a world where data preprocessing and feature engineering are no longer
 - **Custom Transformations**: Apply custom data transformations with ease, tailored to your unique dataset requirements.
 
 ## Process Map
-<img src="https://github.com/knowusuboaky/feature_engineering/blob/main/README%20file/mermaid%20figure%20-1.png?raw=true" width="1000" height="700" alt="Optional Alt Text">
+<img src="https://github.com/knowusuboaky/feature_engineering/blob/main/README%20file/mermaid%20figure%20-1.png?raw=true" width="850" height="700" alt="Optional Alt Text">
 
 ## Installation
 
-You can install the Scorecard Generator via pip:
+You can install the Feature Engineering via pip:
 
 ``` bash
 
