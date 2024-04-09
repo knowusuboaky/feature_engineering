@@ -25,7 +25,7 @@ You can install the Feature Engineering via pip:
 
 ``` bash
 
-pip install feature_engineering==2.1.2
+pip install feature_engineering==2.1.3
 ```
 
 ## Load Package
