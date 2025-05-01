@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/pypi/pyversions/feature-engineering.svg)](https://pypi.org/project/feature-engineering/)
 [![PyPI version](https://img.shields.io/pypi/v/feature-engineering.svg)](https://pypi.org/project/feature-engineering/)
-[![Downloads](https://img.shields.io/pypi/dm/feature-engineering.svg?label=Downloads)](https://pypi.org/project/feature-engineering/#files)
+[![Downloads](https://pepy.tech/badge/feature-engineering)](https://pepy.tech/project/feature-engineering)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/feature_engineering/main.yml)](https://github.com/knowusuboaky/feature_engineering/actions)
 [![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/feature_engineering.svg)](https://github.com/knowusuboaky/feature_engineering/issues)
 [![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
