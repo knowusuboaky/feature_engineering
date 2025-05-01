@@ -1,5 +1,14 @@
 # Feature Engineering
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Versions](https://img.shields.io/pypi/pyversions/feature-engineering.svg)](https://pypi.org/project/feature-engineering/)
+[![PyPI version](https://img.shields.io/pypi/v/feature-engineering.svg)](https://pypi.org/project/feature-engineering/)
+[![Downloads](https://img.shields.io/pypi/dm/feature-engineering.svg?label=Downloads)](https://pypi.org/project/feature-engineering/#files)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/feature_engineering/main.yml)](https://github.com/knowusuboaky/feature_engineering/actions)
+[![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/feature_engineering.svg)](https://github.com/knowusuboaky/feature_engineering/issues)
+[![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
+
+
 Unleash the full potential of your data with the Feature Engineering library, the ultimate Python toolkit designed to streamline and enhance your machine learning preprocessing and feature engineering workflows. Whether you're dealing with classification, regression, or any ML challenge, this library equips you with a robust set of tools to efficiently process numeric, categorical, and date features, tackle outliers, and engineer impactful new features.
 
 ## Further Description
